@@ -7,7 +7,7 @@
 [08 - Come up with Practice Project Ideas](prompts/07-project-ideator.md)  
 
 ## ChatGPT Prompts for UpScaling your Career 
-[01 - Get Clarity and Design your Career Path](prompts/01-design-career-path.md)  
+[01 - Get Clarity and Design your Career Path](Prompts/01-design-career-path.md)  
 [02 - Prepare for Certification Exams](prompts/09-certification-coach.md)  
 [03 - Build and Refine your Resume](prompts/10-resume-builder.md)  
 [04 - Set up Mock Interviews](prompts/08-interviewer.md)  
